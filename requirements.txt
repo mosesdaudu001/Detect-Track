@@ -1,0 +1,9 @@
+cvzone
+filterpy
+# lap==0.4.0
+matplotlib
+numpy
+opencv-python
+# scipy==1.9.1
+scikit-image
+ultralytics
